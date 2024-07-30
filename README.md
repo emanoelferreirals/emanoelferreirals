@@ -1,4 +1,3 @@
-<h3 align="center">Hi, developer!👋 I am Emanoel<h3>
 
 <br>
 <div align="center">
