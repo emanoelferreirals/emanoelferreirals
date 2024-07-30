@@ -2,9 +2,9 @@
 
 <br>
 <div align="center">
-   <a href="https://github.com/Emanoel-Ferreira-LS">
-   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=emanoelflsdev&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelflsdev&layout=compact&langs_count=7&theme=highcontrast"/>
+   <a href="https://github.com/emanoelferreirals">
+   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=emanoelferreirals&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelferreirals&layout=compact&langs_count=7&theme=highcontrast"/>
 </div> 
 
 <br><br>
